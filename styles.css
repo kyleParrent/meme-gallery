@@ -45,7 +45,10 @@ button {
 
 main {
   max-width: 960px;
-  margin: 32px auto;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  margin-right: auto;
+  margin-left: auto;
   display: flex;
   flex-wrap: wrap;
 }
